@@ -1,6 +1,6 @@
 define(function(){
     return {
-        serverIp: '127.0.0.1',
+        serverIp: '172.29.46.60',
         serverIpSocketPort: 80,
         inputID: "#input",
         displayID: "#display",
